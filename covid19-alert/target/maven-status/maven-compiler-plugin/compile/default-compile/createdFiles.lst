@@ -1,0 +1,4 @@
+com/example/covid19alert/services/CoronaVirusDataService.class
+com/example/covid19alert/Covid19AlertApplication.class
+com/example/covid19alert/controllers/HomeController.class
+com/example/covid19alert/models/LocationStats.class
